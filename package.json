@@ -1,0 +1,23 @@
+{
+  "name": "alexshaso",
+  "version": "1.0.0",
+  "description": "alexey 1103d",
+  "main": "console.log(Как же сложно придумывать слова. Да, все так плохо XD)",
+  "type":"module",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexShaSo/environment-git.githttps:.git"
+  },
+  "author": "eaalex1103d",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexShaSo/environment-git.githttps:/issues"
+  },
+  "homepage": "https://github.com/AlexShaSo/environment-git.githttps:#readme",
+  "devDependencies": {
+    "lodash": "^4.17.21"
+  }
+}
